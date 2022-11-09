@@ -1,3 +1,5 @@
+// two sum array fromleetcode
+
 var twoSum = function (nums, target) {
   // let array = [];
   for (i = 0; i < nums.length; i++) {
@@ -18,11 +20,11 @@ var twoSum = function (nums, target) {
 // nums = [3, 2, 4];
 // target = 6;
 
-// nums = [3, 2, 3];
-// target = 6;
-
-nums = [3, 2, 4];
+nums = [3, 2, 3];
 target = 6;
+
+// nums = [3, 2, 4];
+// target = 6;
 
 twoSum(nums, target);
 

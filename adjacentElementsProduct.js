@@ -17,7 +17,7 @@ function solution(inputArray) {
 // inputArray = [-1, -2];
 // inputArray = [5, 1, 2, 3, 1, 4];
 // inputArray = [1, 2, 3, 0];
-inputArray = [9, 5, 10, 2, 24, -1, -48];
+// inputArray = [9, 5, 10, 2, 24, -1, -48];
 // inputArray = [5, 6, -4, 2, 3, 2, -23];
 // inputArray = [4, 1, 2, 3, 1, 5];
 // inputArray = [-23, 4, -3, 8, -12];
